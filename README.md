@@ -1,4 +1,4 @@
-# Starter Repository for Software Development Exercise
+#Software Development Exercise
 
 Student instructions (feel free to remove this section later, as desired):
 
@@ -59,6 +59,7 @@ FLASK_APP=web_app
 Run RPS game:
 
 ```sh
+ALPHAAVANTAGE_API_KEY="____"python -m app.rps
 python -m app.rps
 ```
 
