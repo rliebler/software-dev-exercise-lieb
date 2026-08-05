@@ -92,3 +92,4 @@ Run tests:
 ```sh
 pytest
 ```
+# Whenever we make updates to our flask web app, we need to restart the web server. We do that by typing ctrl+c to stop and flask run again to start
